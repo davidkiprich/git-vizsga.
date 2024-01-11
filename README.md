@@ -5,3 +5,6 @@
 5. majd a git commit -m paranccsal a helyi repository-ba tedtem
 6. git touch paranccsal létrehoztam a .gitignore fájlt
 7. beleírom azokat a fájlokat amiket azt akarom hogy ne jelenjenek meg(txt, doc,docx,pdf) majd git add . parancs és commitolom
+8. új ág létrehozva console néven a git branch console paranccsal
+9. váltás a console ágra a git chechout console paranccsal
+10. módosítva lett az app.js fájl majd git add . és git commit-ot kapott
